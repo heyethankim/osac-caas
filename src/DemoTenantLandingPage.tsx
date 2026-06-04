@@ -215,11 +215,11 @@ export function DemoTenantLandingPage() {
               variant="link"
               component="a"
               isInline
-              href="https://redhat.atlassian.net/browse/OSAC-1040"
+              href="https://redhat.atlassian.net/browse/HPUX-1671"
               target="_blank"
               rel="noopener noreferrer"
             >
-              OSAC-1040
+              HPUX-1671
             </Button>
           </div>
           <Content component="p" className="osac-role-landing__footer-meta">
